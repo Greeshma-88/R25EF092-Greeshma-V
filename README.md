@@ -1,3 +1,1 @@
-#include <stdio.h> int main() { printf("Hello, World!\n"); return 0; } 
-# hello-world-c
- My first C program pushed to GitHub.
+Hi, I'm Greeshu, a Computer Science Engineering student. I'm currently building my skills in software development and exploring tools like Git, GitHub, and VS Code as part of my coursework. This repository is where I'm documenting my learning journey and practicing core developer workflows like version control and collaboration.
